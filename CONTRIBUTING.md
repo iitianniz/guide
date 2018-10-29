@@ -62,7 +62,7 @@ With your help, we can create a comprehensive reference tool that will help mill
 4. 👉 [Make a pull request](https://github.com/freeCodeCamp/guide/compare)
 5. 🎉 Get your pull request approved - success!
 
-Or just [create an issue](https://github.com/freeCodeCamp/guide/issues) - any little bit of help counts! 😊
+Or just [create an issue](https://github.com/freeCodeCamp/guide/issues) - any little bit of help YE! 😊
 
 ## Creating a PR
 
